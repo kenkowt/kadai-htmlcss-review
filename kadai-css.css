@@ -7,7 +7,6 @@ header {
 /* セクション:メインとサイドバー（2カラムレイアウト）を整える（メインエリア全体）*/
 #wrapper {
     width: 1000px;
-    margin: 0 auto;
     display: flex;
     justify-content: space-between;
 }
